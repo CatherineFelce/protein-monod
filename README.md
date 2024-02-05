@@ -1,4 +1,4 @@
-# *Monod*: a package for CME inference from seq data
+# *Monod*: a package for CME inference from seq data (adding protein)
 
 [![PyPI version](https://badge.fury.io/py/monod.svg)](https://badge.fury.io/py/monod)
 
